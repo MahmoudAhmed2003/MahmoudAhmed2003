@@ -16,6 +16,10 @@
 
 
 ![Profile views](https://gpvc.arturio.dev/MahmoudAhmed2003)  
-### 🙋‍♂️ About me
+# 🙋‍♂️ About me
 ◻️ I'm a highly motivated and creative software developer with a passion for problem-solving <br>
-◻️ I specialized in web development and embedded systems <br>
+◻️ I specialized in web development & embedded systems <br>
+
+
+💻 Tools & Technologies <br> <br>
+  <img src="https://img.shields.io/badge/VUE.JS-000000?style=for-the-badge&logo=vuedotjs&logoColor=44E192" alt=vue.js />
