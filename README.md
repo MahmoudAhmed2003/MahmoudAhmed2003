@@ -22,4 +22,7 @@
 
 
 💻 Tools & Technologies <br> <br>
-  <img src="https://img.shields.io/badge/VUE.JS-000000?style=for-the-badge&logo=vuedotjs&logoColor=44E192" alt=vue.js />
+  
+![](https://img.shields.io/badge/JS-VUE.js-informational?style=flate&logo=vue.js&logoColor=04dd04&color=04dd04)
+![](https://img.shields.io/badge/CSS-Bootstrap-informational?style=flate&logo=bootstrap&logoColor=8A66DF&color=471D87)
+![](https://img.shields.io/badge/PHP-Laravel-informational?style=flate&logo=laravel&logoColor=aaffff&color=0404ff)
