@@ -9,19 +9,17 @@
 </div>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudAhmed2003&theme=tokyonight)
-
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MahmoudAhmed2003&show_icons=true&theme=tokyonight)  
-
-
-![Profile views](https://gpvc.arturio.dev/MahmoudAhmed2003)  
-# 🙋‍♂️ About me
+## 🙋‍♂️ About me
 ◻️ I'm a highly motivated and creative software developer with a passion for problem-solving <br>
 ◻️ I specialized in web development & embedded systems <br>
 
 
-💻 Tools & Technologies <br> <br>
+
+<br>
+<br>
+
+
+## 💻 Tools & Technologies <br> <br>
   
 ![](https://img.shields.io/badge/JS-VUE.js-informational?style=flate&logo=vue.js&logoColor=04dd04&color=04dd04)
 ![](https://img.shields.io/badge/CSS-Bootstrap-informational?style=flate&logo=bootstrap&logoColor=8A66DF&color=471D87)
@@ -30,3 +28,12 @@
 ![](https://img.shields.io/badge/My-SQL-informational?style=flate&logo=mysql&logoColor=57C7E4&color=F29111)
 ![](https://img.shields.io/badge/Arduino-informationl?style=flate&logo=arduino&logoColor=00979C&color=555555)
 ![](https://img.shields.io/badge/Dart-Flutter-informational?style=flate&logo=Flutter&logoColor=42A5F5&color=42A5F5)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudAhmed2003&theme=tokyonight)
+
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MahmoudAhmed2003&show_icons=true&theme=tokyonight)  
+
+
+![Profile views](https://gpvc.arturio.dev/MahmoudAhmed2003)  
