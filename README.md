@@ -28,3 +28,5 @@
 ![](https://img.shields.io/badge/PHP-Laravel-informational?style=flate&logo=laravel&logoColor=aaffff&color=0404ff)
 ![](https://img.shields.io/badge/C++-problem%20solving-informational?style=flate&logo=Cplusplus&logoColor=5E97D0&color=044F88)
 ![](https://img.shields.io/badge/My-SQL-informational?style=flate&logo=mysql&logoColor=57C7E4&color=F29111)
+![](https://img.shields.io/badge/Arduino-informationl?style=flate&logo=arduino&logoColor=00979C&color=555555)
+![](https://img.shields.io/badge/Dart-Flutter-informational?style=flate&logo=Flutter&logoColor=42A5F5&color=42A5F5)
