@@ -1,4 +1,6 @@
-<div class="mainDiv" >
+<div style="align : center;
+            background-image : url(Imgs/fireworks.gif);
+            background-size : cover; " >
   <div >
     <img src="Imgs/hellooo.gif" width="300" height="200" alt="missing GIF"  />
  </div>
@@ -40,13 +42,4 @@
 
 ![Profile views](https://gpvc.arturio.dev/MahmoudAhmed2003)  
 
-<style>
-  
-  .mainDiv{
-  align:center;
-  background-image:url(Imgs/fireworks.gif);
-  background-size:cover;
-  }
-  
- </style>
-  
+
