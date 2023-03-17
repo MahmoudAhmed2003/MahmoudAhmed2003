@@ -1,6 +1,4 @@
-<div style="align : center;
-            background-image : url(Imgs/fireworks.gif);
-            background-size : cover; " >
+<div align = center>
   <div >
     <img src="Imgs/hellooo.gif" width="300" height="200" alt="missing GIF"  />
  </div>
