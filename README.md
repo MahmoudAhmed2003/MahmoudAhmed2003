@@ -12,8 +12,10 @@
 
 
 ## 🙋‍♂️ About me
-◻️ I'm a highly motivated and creative software developer with a passion for problem-solving <br>
+◻️ I'm a highly motivated and creative software developer with a passion for problem-solving  [<img src="Imgs/coding.gif" width="90"/>](image.png) <br>
 ◻️ I specialized in mobile apps & embedded systems <br>
+
+
 
 
 
