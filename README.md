@@ -23,11 +23,9 @@
 
 ## 💻 Tools & Technologies <br> <br>
   
-![](https://img.shields.io/badge/JS-React-informational?style=flate&logo=react&logoColor=478BFF&color=005EFF)
-![](https://img.shields.io/badge/CSS-Bootstrap-informational?style=flate&logo=bootstrap&logoColor=9675E2&color=471D87)
-![](https://img.shields.io/badge/PHP-Laravel-informational?style=flate&logo=laravel&logoColor=aaffff&color=0404ff)
-![](https://img.shields.io/badge/My-SQL-informational?style=flate&logo=mysql&logoColor=57C7E4&color=F29111)
-![](https://img.shields.io/badge/C++-problem%20solving-informational?style=flate&logo=Cplusplus&logoColor=5E97D0&color=044F88)
+![](https://img.shields.io/badge/Web-devolpment-informational?style=flate&logo=javascript&logoColor=f0dc4e&color=f0dc4e)
+![](https://img.shields.io/badge/My%20SQL-informational?style=flate&logo=mysql&logoColor=57C7E4&color=555555)
+![](https://img.shields.io/badge/flutter-Dart-informational?style=flate&logo=flutter&logoColor=027DFD&color=027DFD)
 ![](https://img.shields.io/badge/Arduino-informationl?style=flate&logo=arduino&logoColor=00979C&color=555555)
 
 
