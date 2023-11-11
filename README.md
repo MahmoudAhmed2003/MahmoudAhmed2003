@@ -13,7 +13,7 @@
 
 ## 🙋‍♂️ About me
 ◻️ I'm a highly motivated and creative software developer with a passion for problem-solving <br>
-◻️ I specialized in web development & embedded systems <br>
+◻️ I specialized in mobile apps & embedded systems <br>
 
 
 
