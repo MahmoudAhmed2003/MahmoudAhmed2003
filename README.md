@@ -4,7 +4,7 @@
  </div>
       
   
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Segoe+Print&color=FFFFFF&duration=2500&pause=100&center=true&multiline=true&repeat=false&width=435&height=200&lines=+Hey...;I'm+Mahmoud;A Software+developer;Welcome+to+my++mind+palace" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Segoe+Print&color=FFFFFF&duration=2500&pause=100&center=true&multiline=true&repeat=false&width=435&height=200&lines=+Hey...;I'm+Mahmoud;A Mobile+developer;Welcome+to+my++mind+palace" alt="Typing SVG" /></a>
   
          
 
@@ -13,7 +13,7 @@
 
 ## 🙋‍♂️ About me
 ◻️ I'm a highly motivated and creative software developer with a passion for problem-solving  [<img src="Imgs/coding.gif" width="90"/>](image.png) <br>
-◻️ I specialized in mobile apps & embedded systems <br>
+◻️ I specialized in mobile app <br>
 
 
 
@@ -34,7 +34,6 @@
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudAhmed2003&theme=tokyonight)
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MahmoudAhmed2003&show_icons=true&theme=tokyonight)  
