@@ -103,7 +103,17 @@
 🔗 [App Store Link](https://apps.apple.com/eg/app/mekaa/id6740202238)  
 - **Stack:** Flutter · Firebase · Google Maps  
 - **Features:** Real-time towing, live tracking, in-app chat  
-- **Architecture:** MVC + Cubit  
+- **Architecture:** MVVM + Cubit  
+
+---
+
+### 🏥 **E-Exclusive – Medical Insurance App**
+🔗 [Play Store Link](https://play.google.com/store/apps/details?id=com.tech.brmja.exlusive&pcampaignid=web_share)  
+
+- **Stack:** Flutter · Bloc · Firebase · Google Maps · CodePush  
+- **Features:** Policy management, medical network, digital insurance card, medication reminders, push notifications, nearby providers map  
+- **Impact:** Faster and simpler access to medical insurance services  
+- **Architecture:** MVC + Bloc  
 
 ---
 
