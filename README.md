@@ -75,6 +75,15 @@
 
 # 🧩 Projects
 
+### 💼 Sales Force – ERP Field Sales Solution
+
+<!--🔗 [App Store Link](https://apps.apple.com) | 🔗 [Play Store Link](https://play.google.com) -->
+
+* **Stack:** Flutter • Frappe / ERPNext (Backend) • Hive NoSQL (Offline DB)
+* **Features:** Offline & online data synchronization, field sales management, real-time stock & accounting updates, and automated sales reporting.
+* **Architecture:** Clean Architecture + BLoC (State Management)
+
+  
 ### 🚕 **Blue Bird – Ride-Hailing App**
 🔗 [App Store Link](https://apps.apple.com/eg/app/blue-bird-%D8%A8%D9%84%D9%88-%D8%A8%D9%8A%D8%B1%D8%AF/id6753672241)  
 - **Stack:** Flutter · Firebase · Google Maps  
