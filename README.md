@@ -112,7 +112,7 @@
   <ul>
     <li><b>🧠 Problem Solving:</b> Strong foundation in competitive programming, logical thinking, and efficient algorithmic implementations.</li>
     <li><b>💻 Software Engineering:</b> System Design, SDLC, Agile Methodologies, RESTful API Design, OOP, Clean Code, Code Review.</li>
-    <li><b>🏢 ERP & Enterprise Solutions:</b> ERPNext Integration, Frappe Framework, Field Sales Automation, Advanced Offline-First Data Synchronization.</li>
+    <li><b>🏢 ERP & Enterprise Solutions:</b> ERPNext Integration, Frappe Framework, Field Sales Automation.</li>
     <li><b>📱 Mobile Development:</b> Flutter, Dart, State Management (Cubit, Bloc, Provider, GetX).</li>
     <li><b>⚙️ Core Technologies:</b> Google Maps API, Pusher, Flutter Testing, Method Channels.</li>
     <li><b>🏗️ Architecture Patterns:</b> MVC, MVVM, Clean Architecture.</li>
