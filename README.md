@@ -4,7 +4,7 @@
   <br><br>
   
   <h1 align="center">🤝 Hi, I'm Mahmoud Ahmed</h1>
-  <h3 align="center">Software Engineer </h3>
+  <h3 align="center">Mobile App Developer </h3>
   <p align="center"><i>"Code is like humor; when you have to explain it, it’s bad."</i><br><i>"Clean Code == Happy Life | Keep Coding, Keep Leading"</i></p>
 
   <p align="center">
@@ -25,7 +25,7 @@
 <table border="0">
  <tr>
   <td width="55%" valign="top">
-    <p>A dedicated <b>Software Engineer & Team Leader</b> with over 2 years of professional experience in architecting and delivering high-quality, scalable cross-platform applications.</p>
+    <p>A dedicated <b>Mobile App Developer & Team Leader</b> with over 2 years of professional experience in architecting and delivering high-quality, scalable cross-platform applications.</p>
     <p>My core strength lies in writing <b>clean, maintainable code</b> by following strict <b>OOP</b> and <b>SOLID</b> principles with <b>Clean Architecture</b>. I specialize in the full mobile development lifecycle, from technical planning and team leading to robust <b>offline/online</b> implementations and successful deployment to <b>App Store & Google Play Store</b>.</p>
     <p>I have a deep passion for problem-solving, which originally started with competitive programming and continues to drive my logical approach to software development today.</p>
   </td>
